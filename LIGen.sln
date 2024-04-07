@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIGen", "LIGen.csproj", "{A966DCB5-B03A-4B28-81B0-A8BF8D78CF18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A966DCB5-B03A-4B28-81B0-A8BF8D78CF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A966DCB5-B03A-4B28-81B0-A8BF8D78CF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A966DCB5-B03A-4B28-81B0-A8BF8D78CF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A966DCB5-B03A-4B28-81B0-A8BF8D78CF18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE242925-A56C-4A88-9843-2D19AC713E86}
+	EndGlobalSection
+EndGlobal
